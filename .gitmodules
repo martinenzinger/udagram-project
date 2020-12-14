@@ -1,0 +1,12 @@
+[submodule "udagram-api-user"]
+	path = udagram-api-user
+	url = git@github.com:martinenzinger/udagram-api-user
+[submodule "udagram-api-feed"]
+	path = udagram-api-feed
+	url = git@github.com:martinenzinger/udagram-api-feed
+[submodule "udagram-frontend"]
+	path = udagram-frontend
+	url = git@github.com:martinenzinger/udagram-frontend
+[submodule "udagram-reverse-proxy"]
+	path = udagram-reverse-proxy
+	url = git@github.com:martinenzinger/udagram-reverse-proxy
